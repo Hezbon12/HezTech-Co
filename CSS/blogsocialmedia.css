@@ -1,0 +1,42 @@
+/* set margin for the social media link or symbols */
+.socialmedia a {
+    margin: 0 20px;
+
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  align-items: center;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: white;
+  color: blue;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/* copyright sign */
+.fa-copyright {
+  text-align: left;
+  align-self: center;
+}
+
+/* linkedin */
+.fa-linkedin {
+  background: #white;
+  color: blue;
+}
+
