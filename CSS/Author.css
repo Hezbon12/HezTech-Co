@@ -1,0 +1,18 @@
+/* set margin for author bio and content */
+.about-author {
+    margin: 0 40px;
+}
+
+/* set the "Author" title font */
+.author {
+    font-family: "Dancing Script", cursive;
+}
+
+/* set size of the avatar */
+.card .avatar {
+    vertical-align: middle;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
